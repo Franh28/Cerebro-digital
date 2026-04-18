@@ -1,3 +1,7 @@
+
+https://portswigger.net/web-security/sql-injection#what-is-sql-injection-sqli
+
+---
 ## How to detect SQL injection vulnerabilities
 
 You can detect SQL injection manually using a systematic set of tests against every entry point in the application. To do this, you would typically submit:
