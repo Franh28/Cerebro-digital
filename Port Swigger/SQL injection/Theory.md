@@ -231,3 +231,8 @@ We can continue this process to systematically determine the full password for t
 #### Note
 
 The `SUBSTRING` function is called `SUBSTR` on some types of database. For more details, see the SQL injection cheat sheet.
+
+
+
+
+Prueba
