@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Port Swigger/SQL injection/Theory.md",
+                "file": "Port Swigger/Learning Paths/Server-side vulnerabilities/6. OS command injection.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Theory"
+              "title": "6. OS command injection"
             }
           }
         ]
@@ -187,11 +187,19 @@
   "active": "ae68800c3999582a",
   "lastOpenFiles": [
     "Port Swigger/SQL injection/7. SQL injection Theory.md",
+    "Port Swigger/Learning Paths/assets",
     "Port Swigger/SQL injection/Theory.md",
-    "Port Swigger/Learning Paths/Server-side vulnerabilities/2. Access control.md",
-    "Port Swigger/Learning Paths/Server-side vulnerabilities/6. OS command injection.md",
     "Port Swigger/Learning Paths/Server-side vulnerabilities/7. SQL injection.md",
-    "Port Swigger/Learning Paths/Server-side vulnerabilities/Pasted image 20260325114156.png",
+    "Port Swigger/Learning Paths/Sin título.md",
+    "Port Swigger/Learning Paths/assets/linux_commands.png",
+    "Port Swigger/Learning Paths/Server-side vulnerabilities/6. OS command injection.md",
+    "Port Swigger/Learning Paths/Server-side vulnerabilities/5. File upload.md",
+    "Port Swigger/Learning Paths/Server-side vulnerabilities/0. Definitions.md",
+    "Port Swigger/Learning Paths/Server-side vulnerabilities/1. Path traversal.md",
+    "Port Swigger/Learning Paths/Server-side vulnerabilities/3. Authentication.md",
+    "Port Swigger/Learning Paths/Server-side vulnerabilities/2. Access control.md",
+    "Port Swigger/Learning Paths/Server-side vulnerabilities/4. SSRF.md",
+    "Port Swigger/Learning Paths/Server-side vulnerabilities/Server-side vulnerabilities.md",
     "Port Swigger/SQL injection/Labs/PRACTITIONER/7. Blind SQL injection with conditional responses.md",
     "Port Swigger/SQL injection/Labs/PRACTITIONER/6. SQL injection attack, listing the database contents on non-Oracle databases.md",
     "Port Swigger/SQL injection/Labs/PRACTITIONER/3. SQL injection UNION attack, retrieving data from other tables.md",
@@ -204,18 +212,10 @@
     "Sin título.md",
     "Port Swigger/SQL injection",
     "2026-01-17 - First day.md",
-    "Port Swigger/Learning Paths/Server-side vulnerabilities/Server-side vulnerabilities.md",
-    "Port Swigger/Learning Paths/Server-side vulnerabilities/5. File upload.md",
-    "Port Swigger/Learning Paths/Server-side vulnerabilities/4. SSRF.md",
     "Rubita's Letters/12. if you ever feel lost in life.md",
     "Rubita's Letters/11. after our first big fight as a couple.md",
     "Rubita's Letters/10. when you reread our ild love letters.md",
     "Rubita's Letters/9. when you need to hear i'm proud of you.md",
-    "Rubita's Letters/8. when you need to remember your strength.md",
-    "Rubita's Letters/7. if were temporarily apart.md",
-    "Rubita's Letters/6. when you feel lonely without me.md",
-    "Rubita's Letters/5. when work stresses you out.md",
-    "Rubita's Letters/4. 5th anniversary.md",
     "Rubita's Letters",
     "Sin título.canvas",
     "Port Swigger/Learning Paths/Server-side vulnerabilities",
@@ -223,7 +223,6 @@
     "Calistenics/Core",
     "Calistenics/Chest & Triceps",
     "Untitled.base",
-    "Calistenics",
     "Untitled.canvas"
   ]
 }

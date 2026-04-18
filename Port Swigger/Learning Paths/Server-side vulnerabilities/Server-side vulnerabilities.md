@@ -1,8 +1,0 @@
-[[0. Definitions]]
-[[1. Path traversal]]
-[[2. Access control]]
-[[3. Authentication]]
-[[4. SSRF]]
-[[5. File upload]]
-[[6. OS command injection]]
-[[7. SQL injection]]
