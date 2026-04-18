@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "d514cfa65d6f13a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "152fce8022e1021b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae68800c3999582a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5da5227f61e2744b",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f87fe5ffee3a3d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cfb48894bb321705",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "ea1e348f3d1d37f8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ab58b05d10a5b7f6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c02359fc76da8937",
+    "type": "split",
+    "children": [
+      {
+        "id": "af7510c7200532a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "513ce442ae512838",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "85e156031e85c9c3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "4df3bd5fadc99a48",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "16906d7deff09cfc",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "3695ba4e5b8cebe9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "cfb48894bb321705",
+  "lastOpenFiles": [
+    "Port Swigger/Learning Paths/Server-side vulnerabilities/6. OS command injection.md",
+    "Port Swigger/Learning Paths/Server-side vulnerabilities/7. SQL injection.md",
+    "Port Swigger/Learning Paths/Server-side vulnerabilities/Pasted image 20260325114156.png",
+    "Port Swigger/SQL injection/Theory.md",
+    "Port Swigger/SQL injection/Labs/PRACTITIONER/7. Blind SQL injection with conditional responses.md",
+    "Port Swigger/SQL injection/Labs/PRACTITIONER/6. SQL injection attack, listing the database contents on non-Oracle databases.md",
+    "Port Swigger/SQL injection/Labs/PRACTITIONER/3. SQL injection UNION attack, retrieving data from other tables.md",
+    "Port Swigger/SQL injection/Labs/PRACTITIONER/4. SQL injection UNION attack, retrieving multiple values in a single column.md",
+    "Port Swigger/SQL injection/Labs/PRACTITIONER/5. SQL injection attack, querying the database type and version on MySQL and Microsoft.md",
+    "Port Swigger/SQL injection/7. SQL injection Theory.md",
+    "Port Swigger/SQL injection/Labs/PRACTITIONER/2. SQL injection UNION attack, finding a column containing text.md",
+    "Port Swigger/SQL injection/Labs/PRACTITIONER/1. SQL injection UNION attack, determining the number of columns returned by the query.md",
+    "Port Swigger/SQL injection/Labs/PRACTITIONER",
+    "Port Swigger/SQL injection/Labs",
+    "Sin título.md",
+    "Port Swigger/SQL injection",
+    "2026-01-17 - First day.md",
+    "Port Swigger/Learning Paths/Server-side vulnerabilities/Server-side vulnerabilities.md",
+    "Port Swigger/Learning Paths/Server-side vulnerabilities/5. File upload.md",
+    "Port Swigger/Learning Paths/Server-side vulnerabilities/4. SSRF.md",
+    "Rubita's Letters/12. if you ever feel lost in life.md",
+    "Rubita's Letters/11. after our first big fight as a couple.md",
+    "Rubita's Letters/10. when you reread our ild love letters.md",
+    "Rubita's Letters/9. when you need to hear i'm proud of you.md",
+    "Rubita's Letters/8. when you need to remember your strength.md",
+    "Rubita's Letters/7. if were temporarily apart.md",
+    "Rubita's Letters/6. when you feel lonely without me.md",
+    "Rubita's Letters/5. when work stresses you out.md",
+    "Rubita's Letters/4. 5th anniversary.md",
+    "Rubita's Letters",
+    "Sin título.canvas",
+    "Port Swigger/Learning Paths/Server-side vulnerabilities",
+    "Calistenics/Back & Biceps",
+    "Calistenics/Core",
+    "Calistenics/Chest & Triceps",
+    "Untitled.base",
+    "Calistenics",
+    "Untitled.canvas"
+  ]
+}
