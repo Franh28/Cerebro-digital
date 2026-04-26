@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "152fce8022e1021b",
+        "id": "ea00f923bcecb2e9",
         "type": "tabs",
         "children": [
           {
-            "id": "ae68800c3999582a",
+            "id": "07c259c1cbfcb0cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Port Swigger/Learning Paths/SQL injection/Labs/PRACTITIONER/12. Blind SQL injection with out-of-band data exfiltration.md",
+                "file": "Port Swigger/Learning Paths/SQL injection/SQLi Theory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12. Blind SQL injection with out-of-band data exfiltration"
-            }
-          },
-          {
-            "id": "c58635bcd8b55475",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Port Swigger/Learning Paths/SQL injection/Labs/PRACTITIONER/9. Visible error-based SQL injection.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "9. Visible error-based SQL injection"
+              "title": "SQLi Theory"
             }
           }
         ]
@@ -198,15 +184,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ae68800c3999582a",
+  "active": "07c259c1cbfcb0cf",
   "lastOpenFiles": [
-    "Port Swigger/Learning Paths/SQL injection/Labs/PRACTITIONER/11. Blind SQL injection with out-of-band interaction.md",
-    "Port Swigger/Learning Paths/SQL injection/Labs/PRACTITIONER/12. Blind SQL injection with out-of-band data exfiltration.md",
+    "Port Swigger/Learning Paths/SQL injection/Labs/PRACTITIONER/9. Visible error-based SQL injection.md",
     "Port Swigger/Learning Paths/SQL injection/SQLi Theory.md",
+    "Port Swigger/Learning Paths/SQL injection/Labs/PRACTITIONER/13. SQL injection with filter bypass via XML encoding.md",
+    "Port Swigger/Learning Paths/SQL injection/Labs/PRACTITIONER/12. Blind SQL injection with out-of-band data exfiltration.md",
+    "Port Swigger/Learning Paths/SQL injection/Labs/PRACTITIONER/11. Blind SQL injection with out-of-band interaction.md",
     "Port Swigger/Learning Paths/SQL injection/Labs/PRACTITIONER/7. Blind SQL injection with conditional responses.md",
     "Port Swigger/Learning Paths/SQL injection/Labs/PRACTITIONER/4. Retrieving multiple values in a single column.md",
     "Port Swigger/Learning Paths/SQL injection/Labs/PRACTITIONER/10. Blind SQL injection with time delays and information retrieval.md",
-    "Port Swigger/Learning Paths/SQL injection/Labs/PRACTITIONER/9. Visible error-based SQL injection.md",
     "Port Swigger/Learning Paths/SQL injection/Labs/PRACTITIONER/2. Finding a column containing text.md",
     "Port Swigger/Learning Paths/SQL injection/Labs/PRACTITIONER/1. Determining the number of columns returned by the query.md",
     "Port Swigger/Learning Paths/SQL injection/Labs/PRACTITIONER/8. Blind SQL injection with conditional errors.md",
@@ -229,7 +216,6 @@
     "Port Swigger/Learning Paths/Server-side vulnerabilities/3. Authentication.md",
     "Port Swigger/Learning Paths/Server-side vulnerabilities/2. Access control.md",
     "Port Swigger/Learning Paths/Server-side vulnerabilities/4. SSRF.md",
-    "Port Swigger/Learning Paths/Server-side vulnerabilities/Server-side vulnerabilities.md",
     "Port Swigger/Learning Paths/SQL injection/Labs/PRACTITIONER",
     "Port Swigger/Learning Paths/SQL injection/Labs",
     "Port Swigger/Learning Paths/SQL injection",
