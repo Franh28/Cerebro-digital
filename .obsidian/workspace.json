@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Port Swigger/Learning Paths/SQL injection/SQLi Theory.md",
+                "file": "Port Swigger/Learning Paths/Authentication/Authentication Theory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SQLi Theory"
+              "title": "Authentication Theory"
             }
           }
         ]
@@ -186,8 +186,16 @@
   },
   "active": "07c259c1cbfcb0cf",
   "lastOpenFiles": [
-    "Port Swigger/Learning Paths/SQL injection/Labs/PRACTITIONER/9. Visible error-based SQL injection.md",
+    "Port Swigger/Learning Paths/Server-side vulnerabilities/5. File upload.md",
+    "Port Swigger/Learning Paths/Authentication/Authentication Theory.md",
+    "Port Swigger/Learning Paths/Authentication/Labs/PRACTITIONER",
+    "Port Swigger/Learning Paths/Authentication/Labs",
+    "Port Swigger/Learning Paths/Server-side vulnerabilities/4. SSRF.md",
+    "Port Swigger/Learning Paths/Server-side vulnerabilities/3. Authentication.md",
+    "Port Swigger/Learning Paths/Server-side vulnerabilities/2. Access control.md",
     "Port Swigger/Learning Paths/SQL injection/SQLi Theory.md",
+    "Port Swigger/Learning Paths/Authentication",
+    "Port Swigger/Learning Paths/SQL injection/Labs/PRACTITIONER/9. Visible error-based SQL injection.md",
     "Port Swigger/Learning Paths/SQL injection/Labs/PRACTITIONER/13. SQL injection with filter bypass via XML encoding.md",
     "Port Swigger/Learning Paths/SQL injection/Labs/PRACTITIONER/12. Blind SQL injection with out-of-band data exfiltration.md",
     "Port Swigger/Learning Paths/SQL injection/Labs/PRACTITIONER/11. Blind SQL injection with out-of-band interaction.md",
@@ -210,20 +218,12 @@
     "Port Swigger/Learning Paths/assets",
     "Port Swigger/Learning Paths/Sin título.md",
     "Port Swigger/Learning Paths/assets/linux_commands.png",
-    "Port Swigger/Learning Paths/Server-side vulnerabilities/5. File upload.md",
     "Port Swigger/Learning Paths/Server-side vulnerabilities/0. Definitions.md",
-    "Port Swigger/Learning Paths/Server-side vulnerabilities/1. Path traversal.md",
-    "Port Swigger/Learning Paths/Server-side vulnerabilities/3. Authentication.md",
-    "Port Swigger/Learning Paths/Server-side vulnerabilities/2. Access control.md",
-    "Port Swigger/Learning Paths/Server-side vulnerabilities/4. SSRF.md",
     "Port Swigger/Learning Paths/SQL injection/Labs/PRACTITIONER",
     "Port Swigger/Learning Paths/SQL injection/Labs",
     "Port Swigger/Learning Paths/SQL injection",
     "Rubita's Letters",
     "Sin título.canvas",
-    "Port Swigger/Learning Paths/Server-side vulnerabilities",
-    "Calistenics/Back & Biceps",
-    "Calistenics/Core",
     "Untitled.canvas"
   ]
 }
