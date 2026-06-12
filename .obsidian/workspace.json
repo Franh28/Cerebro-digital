@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Port Swigger/Learning Paths/Authentication/Authentication Theory.md",
+                "file": "Port Swigger/Learning Paths/Authentication/Labs/PRACTITIONER/6. 2FA bypass using a brute-force attack.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Authentication Theory"
+              "title": "6. 2FA bypass using a brute-force attack"
             }
           }
         ]
@@ -186,9 +186,9 @@
   },
   "active": "07c259c1cbfcb0cf",
   "lastOpenFiles": [
+    "Port Swigger/Learning Paths/Authentication/Labs/PRACTITIONER/5. 2FA broken logic.md",
     "Port Swigger/Learning Paths/Authentication/Labs/PRACTITIONER/6. 2FA bypass using a brute-force attack.md",
     "Port Swigger/Learning Paths/Authentication/Authentication Theory.md",
-    "Port Swigger/Learning Paths/Authentication/Labs/PRACTITIONER/5. 2FA broken logic.md",
     "Port Swigger/Learning Paths/Authentication/Labs/PRACTITIONER/4. Broken brute-force protection, multiple credentials per request.md",
     "Port Swigger/Learning Paths/Authentication/Labs/PRACTITIONER/3. Username enumeration via account lock.md",
     "Port Swigger/Learning Paths/Authentication/Labs/PRACTITIONER/2. Broken brute-force protection, IP block.md",
