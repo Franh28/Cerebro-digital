@@ -188,8 +188,11 @@
   },
   "active": "211d91a6cfc56d79",
   "lastOpenFiles": [
-    "Port Swigger/Learning Paths/Authentication/Authentication Theory.md",
+    "Port Swigger/Learning Paths/Cross-site scripting - XSS/Labs/PRACTITIONER/1. Exploiting cross-site scripting to steal cookies.md",
     "Port Swigger/Learning Paths/Cross-site scripting - XSS/XSS Theory.md",
+    "Port Swigger/Learning Paths/Cross-site scripting - XSS/Labs/PRACTITIONER",
+    "Port Swigger/Learning Paths/Cross-site scripting - XSS/Labs",
+    "Port Swigger/Learning Paths/Authentication/Authentication Theory.md",
     "Port Swigger/Learning Paths/Access control/Labs/PRACTITIONER/5. Referer-based access control.md",
     "Port Swigger/Learning Paths/Cross-site scripting - XSS",
     "Port Swigger/Learning Paths/Access control/Access control theory.md",
@@ -221,10 +224,7 @@
     "Port Swigger/Learning Paths/Server-side vulnerabilities/2. Access control.md",
     "Port Swigger/Learning Paths/SQL injection/SQLi Theory.md",
     "Port Swigger/Learning Paths/Authentication",
-    "Port Swigger/Learning Paths/SQL injection/Labs/PRACTITIONER/9. Visible error-based SQL injection.md",
     "Port Swigger/Mistery labs",
-    "Obsidian repo.lnk",
-    "Port Swigger/Learning Paths/assets",
     "Sin título.canvas",
     "Untitled.canvas"
   ]

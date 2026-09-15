@@ -1,5 +1,53 @@
 https://portswigger.net/web-security/cross-site-scripting
 
+<script>alert(1)</script>
+
+
+
+---
+
+Aquí van las defensas principales contra este tipo de ataque (XSS que roba cookies):
+
+### 1. Cookies `HttpOnly`
+
+Si la cookie de sesión se marca como `HttpOnly`, JavaScript **no puede leerla** con `document.cookie`. Aunque exista una vulnerabilidad XSS, el script malicioso no tendría nada que robar.
+
+```
+Set-Cookie: session=abc123; HttpOnly; Secure; SameSite=Strict
+```
+
+### 2. Content Security Policy (CSP)
+
+Una cabecera CSP le dice al navegador qué scripts puede ejecutar y a qué dominios puede hacer peticiones. Por ejemplo:
+
+```
+Content-Security-Policy: default-src 'self'; script-src 'self'; connect-src 'self'
+```
+
+Esto bloquearía tanto la ejecución de scripts inyectados como el `fetch` hacia dominios externos, incluso si el XSS lograra colarse.
+
+### 3. Sanitización y escape de inputs/outputs
+
+- Nunca insertar contenido generado por el usuario directamente en el HTML sin escaparlo (usar funciones como `textContent` en vez de `innerHTML`, o librerías como DOMPurify si necesitas HTML enriquecido).
+- Validar y sanitizar tanto en el cliente como en el servidor (el cliente se puede saltar).
+
+### 4. Cookies `SameSite`
+
+Con `SameSite=Strict` o `Lax`, la cookie no se envía en peticiones que vienen de otro sitio, lo que mitiga ataques tipo CSRF y limita el impacto de ciertos XSS.
+
+### 5. Tokens CSRF bien implementados
+
+El token CSRF debe:
+
+- Ser de un solo uso o rotar frecuentemente.
+- Verificarse en el servidor comparando con el que está asociado a la sesión.
+- No servir de nada si el atacante ya tiene XSS (como en tu ejemplo, el propio script roba el token de la página), así que **no sustituye** a las otras defensas.
+
+### 6. Principio de defensa en profundidad
+
+Ninguna medida es suficiente por sí sola. Lo ideal es combinar CSP + HttpOnly + sanitización + SameSite, para que si una capa falla, las otras sigan protegiendo.
+
+¿Quieres que veamos cómo aplicarían estas defensas a un caso concreto (por ejemplo, una app en PHP, Node, etc.)?
 
 ---
 
