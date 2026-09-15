@@ -47,7 +47,7 @@ El token CSRF debe:
 
 Ninguna medida es suficiente por sí sola. Lo ideal es combinar CSP + HttpOnly + sanitización + SameSite, para que si una capa falla, las otras sigan protegiendo.
 
-¿Quieres que veamos cómo aplicarían estas defensas a un caso concreto (por ejemplo, una app en PHP, Node, etc.)?
+	¿Quieres que veamos cómo aplicarían estas defensas a un caso concreto (por ejemplo, una app en PHP, Node, etc.)?
 
 ---
 
