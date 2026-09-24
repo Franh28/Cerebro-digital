@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Port Swigger/Learning Paths/Business logic vulnerabilities/PRACTITIONER/4. Insufficient workflow validation.md",
+                "file": "Port Swigger/Learning Paths/Business logic vulnerabilities/PRACTITIONER/7. Authentication bypass via encryption oracle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Insufficient workflow validation"
+              "title": "7. Authentication bypass via encryption oracle"
             }
           }
         ]
@@ -188,8 +188,12 @@
   },
   "active": "211d91a6cfc56d79",
   "lastOpenFiles": [
-    "Port Swigger/Learning Paths/Business logic vulnerabilities/PRACTITIONER/3. Weak isolation on dual-use endpoint.md",
+    "Port Swigger/Learning Paths/Business logic vulnerabilities/PRACTITIONER/6. Infinite money logic flaw.md",
+    "Port Swigger/Learning Paths/Business logic vulnerabilities/PRACTITIONER/7. Authentication bypass via encryption oracle.md",
+    "Port Swigger/Learning Paths/Business logic vulnerabilities/APPRENTICE/4. Flawed enforcement of business rules.md",
+    "Port Swigger/Learning Paths/Business logic vulnerabilities/PRACTITIONER/5. Authentication bypass via flawed state machine.md",
     "Port Swigger/Learning Paths/Business logic vulnerabilities/PRACTITIONER/4. Insufficient workflow validation.md",
+    "Port Swigger/Learning Paths/Business logic vulnerabilities/PRACTITIONER/3. Weak isolation on dual-use endpoint.md",
     "Port Swigger/Learning Paths/Business logic vulnerabilities/PRACTITIONER/2. Inconsistent handling of exceptional input.md",
     "Port Swigger/Learning Paths/Business logic vulnerabilities/APPRENTICE/3. Inconsistent security controls.md",
     "Port Swigger/Learning Paths/Business logic vulnerabilities/PRACTITIONER/1. Low-level logic flaw.md",
@@ -220,10 +224,6 @@
     "Port Swigger/Learning Paths/NoSQL injection/Labs/PRACTITIONER",
     "Port Swigger/Learning Paths/NoSQL injection/Labs",
     "Port Swigger/Learning Paths/Sin título.md",
-    "Sin título.md",
-    "Port Swigger/Learning Paths/SQL injection/Labs/PRACTITIONER/18. Blind SQL injection with out-of-band data exfiltration.md",
-    "Port Swigger/Learning Paths/SQL injection/Labs/PRACTITIONER/17. Blind SQL injection with out-of-band interaction.md",
-    "Port Swigger/Learning Paths/SQL injection/Labs/PRACTITIONER/16. Blind SQL injection with time delays.md",
     "Port Swigger/Learning Paths/assets/linux_commands.png",
     "Sin título.canvas",
     "Untitled.canvas"
