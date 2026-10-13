@@ -8,20 +8,14 @@ He organizado las notas para que sean fáciles de consultar mientras audito apli
 ```
 port-swigger/
 ├── learning-paths/
-│   ├── sql-injection/
-|   |  ├── teoria.md
+│   ├── topic/
+|   |  ├── topic-theory.md
 |   |  └── labs/
-│   ├── server-side-vulnerabilities/
+|   |  |  ├── APPRENTICE
+|   |  |  └── PRACTITIONER
 │   └── assets/
 └── mistery-labs/
 ```
-
-## 🚀 Progreso actual
-
-| Path | Estado | Labs completados |
-|---|---|---|
-| Server-Side Vulnerabilities | ✅ Completado | 18/18 |
-| SQL Injection | ⏳ En progreso | 12/18 |
 
 ## 🛠️ Stack
 * **Obsidian:** Para la gestión del conocimiento y enlaces bidireccionales.
